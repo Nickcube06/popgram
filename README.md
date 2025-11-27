@@ -8,7 +8,7 @@ This project was created for educational purposes only. No credit is taken for t
 
 ## How to install and run
 1. Make sure you have python3 and pip installed in your system
-2. Clone the repository with git clone https://github.com/your-username/
+2. Clone the repository with git clone https://github.com/Nickcube06/popgram
 3. Create a virtual environment with python3 -m venv venv
 4. Activate the virtual environment with source venv/bin/activate
 5. Install the requirements with pip install -r requirements.txt
